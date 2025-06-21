@@ -4,9 +4,9 @@
 
 Try to translate **Mastering Shiny** into Simplified Chinese.
 
-- **Original Book**: [https://mastering-shiny.org/](https://mastering-shiny.org/)
+- **Original Book**: [mastering-shiny](https://mastering-shiny.org/)
 
-- **Translation Book**: [https://zhenghu159.github.io/mastering-shiny-zh-cn/](https://zhenghu159.github.io/mastering-shiny-zh-cn/)
+- **Translation Book**: [mastering-shiny-zh-cn](https://books-zh-cn.github.io/mastering-shiny-zh-cn/)
 
 ## Translation progress
 
